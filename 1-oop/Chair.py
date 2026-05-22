@@ -1,0 +1,3 @@
+class Note:
+    title = ""
+    description = ""
